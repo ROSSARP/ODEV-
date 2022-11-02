@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667138839 source:c:\users\ftrt2\documents\hakanhocaclab\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
